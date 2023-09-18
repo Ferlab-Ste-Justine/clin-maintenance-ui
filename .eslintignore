@@ -1,0 +1,4 @@
+*.scss
+*.css
+release-ticket
+commitlint.config.js
