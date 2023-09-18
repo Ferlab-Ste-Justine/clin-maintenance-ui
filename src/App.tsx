@@ -1,6 +1,6 @@
 import intl from 'react-intl-universal';
-import MaintenancePage from '@ferlab/ui/core/pages/MaintenancePage';
 import locales from 'locales';
+import MaintenancePage from 'views/MaintenancePage';
 
 import { BrowserLang } from 'utils/constants';
 

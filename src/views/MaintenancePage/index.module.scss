@@ -1,0 +1,24 @@
+@import 'src/style/themes/clin/colors';
+
+.wrapper {
+    background-color: $gray-4;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+    .title {
+        color: $blue-9;
+        font-weight: 500;
+        line-height: 28px;
+        font-size: 20px;
+    }
+
+    .subtitle {
+        color: $gray-8;
+        font-weight: 400;
+        font-size: 14px;
+    }
+}
